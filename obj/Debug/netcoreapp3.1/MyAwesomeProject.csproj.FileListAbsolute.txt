@@ -1,0 +1,11 @@
+C:\Users\Paddy\Desktop\MyAwesomeProject\bin\Debug\netcoreapp3.1\MyAwesomeProject.exe
+C:\Users\Paddy\Desktop\MyAwesomeProject\bin\Debug\netcoreapp3.1\MyAwesomeProject.deps.json
+C:\Users\Paddy\Desktop\MyAwesomeProject\bin\Debug\netcoreapp3.1\MyAwesomeProject.runtimeconfig.json
+C:\Users\Paddy\Desktop\MyAwesomeProject\bin\Debug\netcoreapp3.1\MyAwesomeProject.runtimeconfig.dev.json
+C:\Users\Paddy\Desktop\MyAwesomeProject\bin\Debug\netcoreapp3.1\MyAwesomeProject.dll
+C:\Users\Paddy\Desktop\MyAwesomeProject\bin\Debug\netcoreapp3.1\MyAwesomeProject.pdb
+C:\Users\Paddy\Desktop\MyAwesomeProject\obj\Debug\netcoreapp3.1\MyAwesomeProject.csprojAssemblyReference.cache
+C:\Users\Paddy\Desktop\MyAwesomeProject\obj\Debug\netcoreapp3.1\MyAwesomeProject.AssemblyInfoInputs.cache
+C:\Users\Paddy\Desktop\MyAwesomeProject\obj\Debug\netcoreapp3.1\MyAwesomeProject.AssemblyInfo.cs
+C:\Users\Paddy\Desktop\MyAwesomeProject\obj\Debug\netcoreapp3.1\MyAwesomeProject.dll
+C:\Users\Paddy\Desktop\MyAwesomeProject\obj\Debug\netcoreapp3.1\MyAwesomeProject.pdb
